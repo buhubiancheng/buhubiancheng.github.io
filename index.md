@@ -1,12 +1,12 @@
-## Welcome to Li Pages
+## 欢迎来到李文浩的页面
 
-You can use the [editor on GitHub](https://github.com/buhubiancheng/buhubiancheng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+您可以使用 [GitHub 上的编辑器](https://github.com/buhubiancheng/buhubiancheng.github.io/edit/main/index.md) 来维护和预览 Markdown 文件中网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交到此存储库时，GitHub Pages 都会运行[Jekyll](https://jekyllrb.com/) 从 Markdown 文件中的内容重建站点中的页面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级且易于使用的语法，用于设置写作样式。它包括
 
 ```markdown
 Syntax highlighted code block
@@ -26,14 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+ 有关更多详细信息，请参阅[基本编写和格式设置语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 
-### Jekyll Themes
+### J杰基尔主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buhubiancheng/buhubiancheng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的 Pages 文稿网站将使用您在 [存储库设置](https://github.com/buhubiancheng/buhubiancheng.github.io/settings/pages). 中选择的 Jekyll 主题中的布局和样式。此主题的名称保存在 Jekyll 配置文件中。_config.yml
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 支持或联系
+使用主页时遇到问题？请查看我们的 [文档](https://docs.github.com/categories/github-pages-basics/) 或 [contact support](https://support.github.com/contact) ，我们将帮助您解决问题。
 
 [百度](https://www.baidu.com/)
