@@ -26,13 +26,13 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
- 有关更多详细信息，请参阅[基本编写和格式设置语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
+有关更多详细信息，请参阅[基本编写和格式设置语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 
 ### 杰基尔主题
 
-您的 Pages 文稿网站将使用您在 [存储库设置](https://github.com/buhubiancheng/buhubiancheng.github.io/settings/pages). 中选择的 Jekyll 主题中的布局和样式。此主题的名称保存在 Jekyll 配置文件中。_config.yml
+您的 Pages 文稿网站将使用您在 [存储库设置](https://github.com/buhubiancheng/buhubiancheng.github.io/settings/pages) 中选择的 Jekyll 主题中的布局和样式，此主题的名称保存在 Jekyll 配置文件中。_config.yml
 
 ### 支持或联系
-使用主页时遇到问题？请查看我们的 [文档](https://docs.github.com/categories/github-pages-basics/) 或 [联系支持](https://support.github.com/contact) ，我们将帮助您解决问题。
+使用主页时遇到问题？请查看我们的 [文档](https://docs.github.com/categories/github-pages-basics/) 或 [联系支持](https://support.github.com/contact)，我们将帮助您解决问题。
 
-大兔子 我最好的朋友
+大兔子 我最好的朋友 也是我的女朋友
