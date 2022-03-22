@@ -35,4 +35,4 @@ Syntax highlighted code block
 ### 支持或联系
 使用主页时遇到问题？请查看我们的 [文档](https://docs.github.com/categories/github-pages-basics/) 或 [contact support](https://support.github.com/contact) ，我们将帮助您解决问题。
 
-[百度](https://www.baidu.com/)
+大兔子 我最好的朋友
