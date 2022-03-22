@@ -28,7 +28,7 @@ Syntax highlighted code block
 
  有关更多详细信息，请参阅[基本编写和格式设置语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 
-### J杰基尔主题
+### 杰基尔主题
 
 您的 Pages 文稿网站将使用您在 [存储库设置](https://github.com/buhubiancheng/buhubiancheng.github.io/settings/pages). 中选择的 Jekyll 主题中的布局和样式。此主题的名称保存在 Jekyll 配置文件中。_config.yml
 
